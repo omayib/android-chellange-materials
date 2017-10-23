@@ -6,7 +6,7 @@
     android:orientation="vertical"
     tools:context="id.technomotion.case1.MainActivity">
     <View android:layout_width="match_parent"
-        android:background="#ee33ff33"
+        android:background="#eeff3a33"
         android:layout_height="200dp"/>
     <TextView
         android:layout_width="match_parent"
